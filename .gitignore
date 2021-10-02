@@ -34,3 +34,6 @@ build/
 
 ### Reach App ###
 src/frontend/node_modules/
+
+### 
+node_modules/
